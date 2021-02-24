@@ -1,1 +1,3 @@
 sithis is first file  changes 
+adding reset line
+adding delete reset commit
